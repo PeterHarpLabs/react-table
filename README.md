@@ -73,9 +73,6 @@ Note that this installation guide uses the `react-table-v6` version of the packa
 1.  Install React Table as a dependency
 
 ```bash
-# Yarn
-$ yarn add react-table-v6
-
 # NPM
 $ npm install react-table-v6
 ```
