@@ -10,3 +10,4 @@ react-table.css
 .DS_Store
 .history
 .vscode
+package-lock.json
